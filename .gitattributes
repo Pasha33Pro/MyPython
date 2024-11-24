@@ -1,2 +1,28 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Python файлы
+*.py text diff=python
+*.pyw text diff=python
+
+# Текстовые файлы
+*.md text diff=markdown
+*.txt text
+*.json text
+*.yaml text
+*.yml text
+
+# Скрипты Windows должны иметь CRLF окончания строк
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Скрипты Unix должны иметь LF окончания строк
+*.sh text eol=lf
+
+# Бинарные файлы (не должны изменяться)
+*.db binary
+*.pkl binary
+*.pyc binary
+*.pyd binary
+*.pyo binary
+
+# Игнорировать при экспорте
+.gitattributes export-ignore
+.gitignore export-ignore
