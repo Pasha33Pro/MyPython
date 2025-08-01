@@ -1,0 +1,12 @@
+ultralytics==8.0.200
+opencv-python==4.7.0.72
+numpy==1.24.3
+pillow==9.5.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+python-telegram-bot==20.3
+SpeechRecognition==3.9.0
+pyaudio==0.2.11
+keyboard==0.13.5
+mouse==0.7.1
