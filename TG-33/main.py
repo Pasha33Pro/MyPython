@@ -68,7 +68,7 @@ Date.promdiz_correct = 0
 
 Date.place = 0
 
-bot: TeleBot = telebot.TeleBot('6282382646:AAGrbRtD9lSJcJsW3X-hyquOQM0v_1SV_h8')
+bot: TeleBot = telebot.TeleBot('YOUR_API_KEY_HERE')
 avtor = types.ReplyKeyboardMarkup(resize_keyboard=True)
 avtor.add('Автор🕶')
 
