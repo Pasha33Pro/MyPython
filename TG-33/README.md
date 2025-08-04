@@ -4,9 +4,15 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)
 ![Windows](https://img.shields.io/badge/Windows-OS-blue?logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-9f9f9f)
 
 Образовательный Telegram-бот для знакомства с направлениями Кванториума.
+
+## Статус проекта
+
+✅ Этот проект **завершен** и больше не находится в активной разработке.  
+Последнее обновление: _06.08.2024_<br>
+Проект считается завершённым, так как реализует все запланированные функции и соответствует поставленным целям.
 
 ## Описание
 
@@ -25,6 +31,7 @@
 - Windows (из-за использования pywin32 для конвертации DOCX в PDF)
 
 ### Зависимости
+
 Установите зависимости из файла requirements.txt
 
 ## Установка и использование

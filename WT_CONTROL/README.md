@@ -4,13 +4,19 @@
 ![WarThunder](https://img.shields.io/badge/War_Thunder-Game-orange?logo=war-thunder)
 ![VoiceControl](https://img.shields.io/badge/Voice_Control-System-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Status](https://img.shields.io/badge/Status-Archived-blue)
 
 Уникальная система голосового управления вертолётами в War Thunder!
 
+## Статус проекта
+
+⚠️ Этот проект находится в **архиве** и больше не поддерживается.<br>
+Функции реализованы в частичном объёме, дальнейшая разработка не планируется.
+
 ## Описание
 
-WT_CONTROL - это инновационная система, позволяющая управлять вертолётами в игре War Thunder с помощью голосовых команд.
+WT_CONTROL - это инновационная система, позволяющая управлять вертолётами в игре War Thunder с помощью голосовых
+команд.<br>
 Система распознает естественный язык и преобразует ваши команды в игровые действия, создавая новый уровень
 взаимодействия с игрой.
 
