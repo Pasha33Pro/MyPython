@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+python-docx==0.8.11
+docx2pdf==0.2.2
+pywin32==306
